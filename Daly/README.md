@@ -153,11 +153,5 @@ requirements.txt
 README.md
 ```
 
-#### Next Steps
-- Connect to Excalibur V4 and Daly-BI (read-only), implement SQL views, and swap CSV inputs for live queries
-- Complete the mapping workbook; update `t702_layout.yaml` accordingly
-- Flesh out validations from “Status Codes & Process Rules.xlsx” and addendums
-- Implement payment profile continuity and prescription logic
-- Confirm daily H/T requirement (current daily is D-only per sample), and finalize trailer rules
 
 
